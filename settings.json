@@ -1,0 +1,7 @@
+{
+    "history_default_limit": 10,
+    "report_default_limit": 50,
+    "reports_directory": "reports",
+    "http_timeout_seconds": 10,
+    "http_response_preview_limit": 1000
+}

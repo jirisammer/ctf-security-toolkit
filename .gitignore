@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Local program output
+data/history.jsonl
+reports/
+
+# C# / .NET
+bin/
+obj/
+.vs/
+*.user
